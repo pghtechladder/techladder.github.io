@@ -1,0 +1,352 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 07 Mar 2023 19:01:08 at https://www.techladder.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+www.techladder.io
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.techladder.io/ -O1 "C:\Users\Neha\Desktop\website\ptl.io\techladder" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, mwww.techladder.iormation,www.techladder.io
+www.techladder.iowww.techladder.io
+	such as username/password authentication for websiwww.techladder.ioectwww.techladder.io
+www.techladder.iowww.techladder.io
+	do not share these files/folders if you want thesewww.techladder.ioivatewww.techladder.io
+www.techladder.io
+www.techladder.io
+www.techladder.iowww.techladder.io
+19:01:44	Error: 	"Not Found" (404) at link https://www.techladder.io/generated_global_groups/4794403782.html (from https://www.zipcodwww.techladder.io
+www.techladder.iowww.techladder.io
+19:03:01	Error: 	"Not Found" (404) at link https://www.techladder.io/generated_global_groups/4675756436.html (from https://www.zwww.techladder.io
+www.techladder.iowww.techladder.io
+19:03:01	Error: 	"Not Found" (404) at link https://www.techladder.io/generated_global_groups/www.techladder.iops://www.techladder.io/)
+www.techladder.iowww.techladder.io
+19:03:01	Error: 	"Not Found" (404) at link https://www.techladder.io/generated_global_groups/4774033310.html (from https://www.zipcodewww.techladder.io
+www.techladder.iowww.techladder.io
+19:03:15	Error: 	"Not Found" (404) at link https://www.techladder.io/POST (from https://www.techladder.io/)www.techladder.io
+www.techladder.iowww.techladder.io
+19:03:15	Error: 	"Not Found" (404) at link https://www.techladder.io/c (from https://connect.facebook.net/en_www.techladder.io
+www.techladder.iowww.techladder.iowww.techladder.io
+19:03:15	Error: 	"Not Found" (404) at link https://www.techladder.io/b (from https://connect.facebook.net/en_US/fbevents.js)www.techladder.io
+www.techladder.iowww.techladder.io
+19:04:30	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/page/generated_global_groups/4675756436.htmwww.techladder.iodewilmington.com/blog/page/2)
+www.techladder.iowww.techladder.io
+19:04:36	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/page/2)
+www.techladder.iowww.techladder.io
+19:04:36	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/page/POST (fromwww.techladder.iongton.com/blog/page/2)
+www.techladder.iowww.techladder.io
+19:04:37	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/generated_global_groups/4675756436.html (from https://www.techladderwww.techladder.ioscience-books-for-new-software-developers)
+www.techladder.iowww.techladder.io
+19:04:37	Error: 	"Not Found" (404) at link https://www.zipcodewilwww.techladder.iod_global_groups/4774033310.html (from https://www.techladder.io/blog/top-5-computer-science-books-for-new-swww.techladder.io
+www.techladder.iowww.techladder.io
+19:04:37	Error: 	"Not Found" (404) at link https://www.zipcodewilwww.techladder.ioom https://www.techladder.io/blog/top-5-computer-science-bowww.techladder.iolopers)
+www.techladder.iowww.techladder.io
+19:04:38	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/generated_global_growww.techladder.io https://www.techladder.io/blog/topic/gangstagrass)
+www.techladder.iowww.techladder.iowww.techladder.io
+19:04:38	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/generated_global_groups/4774033310.html (from https://www.techladderingtwww.techladder.iograss)
+www.techladder.iowww.techladder.io
+19:04:38	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/POST (from https://www.techladderingtwww.techladder.iograss)
+www.techladder.io
+19:05:55	Error: 	"Not Found" (404) at link https://www.techladder.io/bwww.techladder.ioated_global_groups/46757www.techladder.iowww.techladder.io/blog/topic/tech/page/2)
+www.techladder.iowww.techladder.io
+19:05:59	Error: 	"Not Found" (404) at linwww.techladder.ioington.com/blog/topic/tech/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/tech/page/2)
+www.techladder.iowww.techladder.io
+19:05:59	Error: 	"Not Found" (404) at lwww.techladder.iolmington.com/blog/topic/tech/pwww.techladder.iow.techladder.io/blog/topic/tech/page/2)
+www.techladder.io
+19:05:59	Error: 	"Error when decompressing" (-1) at link https://www.zipcodewiwww.techladder.io/www.techladder.io/apply/” (from https://www.zipcodewilwww.techladder.iof-coding-education-arrived-in-wilmington)
+www.techladder.iowww.techladder.io
+19:07:32	Error: 	"Not Found" (404) at linwww.techladder.ioington.com/blog/topic/tech-careers/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/tech-careers/page/2)
+www.techladder.iowww.techladder.io
+19:07:33	Error: 	"Not Found" (404) at lwww.techladder.iolmington.com/blog/topic/tech-careers/page/generated_global_gwww.techladder.ioom https://www.techladder.io/blog/topic/tech-careers/page/2)
+www.techladder.iowww.techladder.io
+19:07:33	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-careers/page/POST (from https://www.techladder.io/blog/www.techladder.io)
+www.techladder.iowww.techladder.io
+19:07:33	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/blog/generated_global_groups/4675756436.html (from https://www.zipcodewww.techladder.ioon-fire-or-fizzled-out-how-to-stay-motivated-when-making-a-career-move)
+www.techladder.iowww.techladder.io
+19:07:33	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/blog/generated_global_groups/477403www.techladder.ioww.techladder.io/blog/blog/on-fire-or-fizzled-out-how-to-stay-motivated-when-making-a-career-move)
+www.techladder.iowww.techladder.io
+19:07:33	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/blog/POST (from https://www.techladder.io/blog/blog/on-fire-or-fizzled-out-howww.techladder.iomaking-a-career-move)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Not Found" (404) at link https://www.techladder.io/apply (from https://www.techladder.io/blog/infographic-tech-jobs-withwww.techladder.iogrowth)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-jobs/page/generated_globalwww.techladder.iofrom https://www.techladder.io/blog/topic/tech-jobs/page/2)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-jobs/page/generated_global_groups/4774033310.html (from https:/www.techladder.iom/blog/topic/tech-jobs/page/2)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-jobs/page/POST (from https://www.techladder.io/blog/topicwww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Error when decompressing" (-1) atwww.techladder.iowilmington.com/blog/”https://developer.yahoo.cowww.techladder.iooop-wins-terabyte-sort-benchmark-408.html” (from https://www.techladder.io/blog/3-tech-skills-needed-to-succeed-today)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Error when decompressing" (-1) atwww.techladder.iowilmington.com/blog/”http://www.wdel.com/story.php?id=68554%e2%80%9d (from httpswww.techladder.iocom/blog/3-tech-skills-needed-to-succeed-today)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Error when decompressinwww.techladder.ioww.techladder.io/blog/”http://www.indeed.com/jobtrends/MongoDB.html” (from https://www.techladder.io/blog/3-tech-skills-needed-to-succeed-today)
+www.techladder.iowww.techladder.io
+19:07:34	Error: 	"Error when decompresswww.techladder.io/www.techladderwww.techladder.iongodb.org/” (from https://www.techladder.io/blog/3-tech-skills-needed-to-succeed-today)
+www.techladder.io
+19:07:39	Error: 	"Not Found" (404) at link https://www.techladder.io/awww.techladder.iops://www.techladderiwww.techladder.ioraphic-the-rise-of-coding-bootcamps)
+www.techladder.iowww.techladder.io
+19:07:39	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/www.techladder.io/apply (from https://www.techladder.io/www.techladder.ioing-bootcamp-right-for-you)
+www.techladder.iowww.techladder.io
+19:07:39	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-school/page/generated_glwww.techladder.ioml (from https://www.techladder.io/blog/topic/coding-school/page/2)
+www.techladder.iowww.techladder.io
+19:07:39	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-school/page/generated_global_groups/4774033310.html (from hwww.techladder.ioton.com/blog/topic/coding-school/page/2)
+www.techladder.iowww.techladder.io
+19:07:39	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-school/page/POST (from https://www.techladder.io/blog/topic/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Moved Permanently for www.zipcodwww.techladder.iotwww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Redirected link is identical becwww.techladder.io: www.techladder.io/robots.txt and https://www.techladder.io/robots.txtwww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Warning moved treated for www.ziwww.techladder.ios.txt (real one is https://www.techladder.io/robots.txt)www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Moved Permanently for www.zipcodwww.techladder.ioonpart2/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Redirected link is identical becwww.techladder.io: www.techladder.io/applicationpart2/ and https://www.techladder.io/applicationpawww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	File has moved from www.zipcodewwww.techladder.iopart2/ to https://www.techladder.io/applicationpart2/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Moved Permanently for www.zipcodwww.techladder.ioprogramming-makes-a-great-second-career/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Redirected link is identical becwww.techladder.io: www.techladder.io/blog/why-programming-makes-a-great-second-career/ and https://www.zwww.techladder.io/why-programming-makes-a-great-second-career/
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	File has moved from www.zipcodewwww.techladder.ioogramming-makes-a-great-second-career/ to https://www.techladder.io/blog/why-prowww.techladder.iocond-career/
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Moved Permanently for www.zipcodwww.techladder.iographic-todays-top-trending-tech-jobs/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	Redirected link is identical becwww.techladder.io: www.techladder.io/blog/infographic-todays-top-trending-tech-jobs/ and https:www.techladder.ioom/blog/infographic-todays-top-trending-tech-jobs/
+www.techladder.iowww.techladder.io
+19:07:40	Warning: 	File has moved from www.zipcodewwww.techladder.ioaphic-todays-top-trending-tech-jobs/ to https://www.techladder.io/blog/infogwww.techladder.iog-tech-jobs/
+www.techladder.iowww.techladder.io
+19:07:41	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware/page/generated_global_groupswww.techladder.iotps://www.techladder.io/blog/topic/delaware/page/2)
+www.techladder.iowww.techladder.io
+19:07:41	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware/page/generated_global_groups/4774033310.html (from https://www.ziwww.techladder.iotopic/delaware/page/2)
+www.techladder.iowww.techladder.io
+19:07:41	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware/page/POST (from https://www.techladder.io/blog/topic/delaware/page/2)www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:42	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java/page/generated_global_groups/4675756436.html (from httpswww.techladder.iocom/blog/topic/java/page/2)
+www.techladder.iowww.techladder.io
+19:07:42	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java/page/generated_global_groups/4774033310.html (from https://www.techladderwww.techladder.ioa/page/2)
+www.techladder.iowww.techladder.io
+19:07:42	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java/page/POST (from https://www.techladder.io/blog/topic/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java-coding-academy/page/generawww.techladder.io436.html (from https://www.techladder.io/blog/topic/java-coding-academy/page/2)
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java-coding-academy/page/generated_global_groups/4774033310.html (from hwww.techladder.ioton.com/blog/topic/java-coding-academy/page/2)
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/java-coding-academy/page/POST (from https://www.techladder.io/blog/topic/www.techladder.io2)
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/nptech/page/generated_global_groups/4675756436www.techladder.ioipcodewilmington.com/blog/topic/nptech/page/2)
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/nptech/page/generated_global_groups/4774033310.html (from https://www.zipcodewilwww.techladder.iotech/page/2)
+www.techladder.iowww.techladder.io
+19:07:43	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/nptech/page/POST (from https://www.techladder.io/blog/topwww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:44	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/techjobs/page/generated_globalwww.techladder.iofrom https://www.techladder.io/blog/topic/techjobs/page/2)
+www.techladder.iowww.techladder.iowww.techladder.io
+19:07:44	Error: 	"Not Found" (404) at link https://www.zipcodewilwww.techladder.iochjobs/page/generated_global_groups/4774033310.html (from https:www.techladder.ioom/blog/topic/techjobs/page/2)
+www.techladder.io
+19:07:44	Error: 	"Not Found" (404) at link https://www.techladder.io/bwww.techladder.ioOST (from https://www.techladder.io/blog/topicwww.techladder.io
+www.techladder.iowww.techladder.io
+19:07:44	Error: 	"Not Found" (404) at linwww.techladder.ioington.com/blog/topic/wilmington/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/wilmington/page/2)
+www.techladder.iowww.techladder.io
+19:07:44	Error: 	"Not Found" (404) at lwww.techladder.iolmington.com/blog/topic/wilmington/page/generated_global_groups/4774033310.html (from https:/www.techladder.iom/blog/topic/wilmington/page/2)
+www.techladder.iowww.techladder.io
+19:07:44	Error: 	"Not Found" (404) at linwww.techladder.ioington.com/blog/topic/wilmington/page/POST (from https://www.techladder.io/blog/topic/wilmington/page/2)
+www.techladder.iowww.techladder.io
+19:07:45	Error: 	"Not Found" (404) at lwww.techladder.iolmington.com/blog/topic/bootcamp/page/generated_global_groups/4675756www.techladder.iow.techladder.io/blog/topic/bootcamp/page/2)
+www.techladder.io
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/bwww.techladder.ioenerated_global_groups/4774033310.html (from https://www.zipcodwww.techladder.ioc/bootcamp/page/2)
+www.techladder.iowww.techladder.io
+19:07:45	Error: 	"Not Found" (404) at linwww.techladder.ioington.com/blog/topic/bootcamp/page/POST (from https://www.techladder.io/blog/topic/bootcamp/page/2)
+www.techladder.iowww.techladder.io
+19:07:45	Warning: 	Moved Permanently fowww.techladder.ioom/training/www.techladder.io
+www.techladder.io
+19:07:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/training/ and https://www.techladder.io/training/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:45	Warning: 	File has moved from wwwww.techladder.ioraining/ to https://www.techladder.io/training/
+www.techladder.iowww.techladder.io
+19:07:45	Warning: 	Moved Permanently fowww.techladder.ioom/alumni/www.techladder.io
+www.techladder.io
+19:07:45	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/alumni/ and https://www.techladder.io/alumni/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:45	Warning: 	File has moved from www.zipcodewwww.techladder.iohttps://www.techladder.io/alumni/www.techladder.io
+www.techladder.iowww.techladder.io
+19:07:45	Error: 	"Not Found" (404) at link https://www.zipcodewilwww.techladder.ioreer/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/career/page/2)www.techladder.io
+
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/career/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/career/page/2)
+
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/career/page/POST (from https://www.techladder.io/blog/topic/career/page/2)
+
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/coding/page/2)
+
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/coding/page/2)
+
+19:07:45	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding/page/POST (from https://www.techladder.io/blog/topic/coding/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-bootcamp/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/coding-bootcamp/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-bootcamp/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/coding-bootcamp/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/coding-bootcamp/page/POST (from https://www.techladder.io/blog/topic/coding-bootcamp/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-hub/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/delaware-tech-hub/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-hub/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/delaware-tech-hub/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-hub/page/POST (from https://www.techladder.io/blog/topic/delaware-tech-hub/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-scene/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/delaware-tech-scene/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-scene/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/delaware-tech-scene/page/2)
+
+19:07:46	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/delaware-tech-scene/page/POST (from https://www.techladder.io/blog/topic/delaware-tech-scene/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-coding-language/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/in-demand-coding-language/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-coding-language/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/in-demand-coding-language/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-coding-language/page/POST (from https://www.techladder.io/blog/topic/in-demand-coding-language/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/POST (from https://www.techladder.io/blog/topic/in-demand-tech-jobs/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/2)
+
+19:07:47	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/POST (from https://www.techladder.io/blog/topic/in-demand-tech-langauge/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-java-matters/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/why-java-matters/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-java-matters/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/why-java-matters/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-java-matters/page/POST (from https://www.techladder.io/blog/topic/why-java-matters/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-learn-java/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/why-learn-java/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-learn-java/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/why-learn-java/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-learn-java/page/POST (from https://www.techladder.io/blog/topic/why-learn-java/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-use-java/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/why-use-java/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-use-java/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/why-use-java/page/2)
+
+19:07:48	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/why-use-java/page/POST (from https://www.techladder.io/blog/topic/why-use-java/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/whyjavamatters/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/whyjavamatters/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/whyjavamatters/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/whyjavamatters/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/whyjavamatters/page/POST (from https://www.techladder.io/blog/topic/whyjavamatters/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/POST (from https://www.techladder.io/blog/topic/wilmington-east-coast-silicon-valley/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-hub/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/wilmington-tech-hub/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-hub/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/wilmington-tech-hub/page/2)
+
+19:07:49	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-hub/page/POST (from https://www.techladder.io/blog/topic/wilmington-tech-hub/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilm/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/inwilm/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilm/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/inwilm/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilm/page/POST (from https://www.techladder.io/blog/topic/inwilm/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilmington/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/inwilmington/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilmington/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/inwilmington/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/inwilmington/page/POST (from https://www.techladder.io/blog/topic/inwilmington/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-scene/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/wilmington-tech-scene/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-scene/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/wilmington-tech-scene/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/wilmington-tech-scene/page/POST (from https://www.techladder.io/blog/topic/wilmington-tech-scene/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-school-delaware/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/tech-school-delaware/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-school-delaware/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/tech-school-delaware/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/tech-school-delaware/page/POST (from https://www.techladder.io/blog/topic/tech-school-delaware/page/2)
+
+19:07:51	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/netde/page/generated_global_groups/4675756436.html (from https://www.techladder.io/blog/topic/netde/page/2)
+
+19:07:52	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/netde/page/generated_global_groups/4774033310.html (from https://www.techladder.io/blog/topic/netde/page/2)
+
+19:07:52	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/topic/netde/page/POST (from https://www.techladder.io/blog/topic/netde/page/2)
+
+19:07:52	Error: 	"Error when decompressing" (-1) at link https://www.techladder.io/blog/”http://www.techladder.io/blog/in-demand-software-coding-language/” (from https://www.techladder.io/blog/the-3-best-second-careers-available-today)
+
+19:07:52	Error: 	"Error when decompressing" (-1) at link https://www.techladder.io/blog/”http://www.bls.gov/ooh/math/actuaries.htm” (from https://www.techladder.io/blog/the-3-best-second-careers-available-today)
+
+19:07:52	Warning: 	Moved Permanently for www.techladder.io/blog/teaching-the-skills-employers-want/
+
+19:07:52	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/teaching-the-skills-employers-want/ and https://www.techladder.io/blog/teaching-the-skills-employers-want/
+
+19:07:52	Warning: 	File has moved from www.techladder.io/blog/teaching-the-skills-employers-want/ to https://www.techladder.io/blog/teaching-the-skills-employers-want/
+
+19:07:52	Warning: 	Moved Permanently for www.techladder.io/blog/what-it-takes-to-be-a-coder-insight-from-zip-code-wilmingtons-first-cohort/
+
+19:07:52	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/what-it-takes-to-be-a-coder-insight-from-zip-code-wilmingtons-first-cohort/ and https://www.techladder.io/blog/what-it-takes-to-be-a-coder-insight-from-zip-code-wilmingtons-first-cohort/
+
+19:07:52	Warning: 	File has moved from www.techladder.io/blog/what-it-takes-to-be-a-coder-insight-from-zip-code-wilmingtons-first-cohort/ to https://www.techladder.io/blog/what-it-takes-to-be-a-coder-insight-from-zip-code-wilmingtons-first-cohort/
+
+19:07:52	Error: 	"Not Found" (404) at link https://www.techladder.io/blog/www.stackoverflow.com/ (from https://www.techladder.io/blog/4-key-takeaways-2015-stack-overflow-developer-survey)
+
+19:08:22	Warning: 	Moved Permanently for www.techladder.io/blog/learning-coding-is-a-door-to-a-million-other-doors/
+
+19:08:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/learning-coding-is-a-door-to-a-million-other-doors/ and https://www.techladder.io/blog/learning-coding-is-a-door-to-a-million-other-doors/
+
+19:08:22	Warning: 	File has moved from www.techladder.io/blog/learning-coding-is-a-door-to-a-million-other-doors/ to https://www.techladder.io/blog/learning-coding-is-a-door-to-a-million-other-doors/
+
+19:08:22	Warning: 	Moved Permanently for www.techladder.io/blog/if-you-can-solve-puzzles-you-can-ace-coding/
+
+19:08:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/if-you-can-solve-puzzles-you-can-ace-coding/ and https://www.techladder.io/blog/if-you-can-solve-puzzles-you-can-ace-coding/
+
+19:08:22	Warning: 	File has moved from www.techladder.io/blog/if-you-can-solve-puzzles-you-can-ace-coding/ to https://www.techladder.io/blog/if-you-can-solve-puzzles-you-can-ace-coding/
+
+19:08:22	Warning: 	Moved Permanently for www.techladder.io/blog/you-have-to-take-risks-for-your-own-happiness-and-career-growth/
+
+19:08:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/you-have-to-take-risks-for-your-own-happiness-and-career-growth/ and https://www.techladder.io/blog/you-have-to-take-risks-for-your-own-happiness-and-career-growth/
+
+19:08:22	Warning: 	File has moved from www.techladder.io/blog/you-have-to-take-risks-for-your-own-happiness-and-career-growth/ to https://www.techladder.io/blog/you-have-to-take-risks-for-your-own-happiness-and-career-growth/
+
+19:08:22	Warning: 	Moved Permanently for www.techladder.io/blog/for-womens-history-month-lets-celebrate-innovative-coders-and-programmers/
+
+19:08:22	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/for-womens-history-month-lets-celebrate-innovative-coders-and-programmers/ and https://www.techladder.io/blog/for-womens-history-month-lets-celebrate-innovative-coders-and-programmers/
+
+19:08:22	Warning: 	File has moved from www.techladder.io/blog/for-womens-history-month-lets-celebrate-innovative-coders-and-programmers/ to https://www.techladder.io/blog/for-womens-history-month-lets-celebrate-innovative-coders-and-programmers/
+
+19:08:32	Warning: 	Moved Permanently for www.techladder.io/blog/infographic-the-rise-of-coding-bootcamps/
+
+19:08:32	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/infographic-the-rise-of-coding-bootcamps/ and https://www.techladder.io/blog/infographic-the-rise-of-coding-bootcamps/
+
+19:08:32	Warning: 	File has moved from www.techladder.io/blog/infographic-the-rise-of-coding-bootcamps/ to https://www.techladder.io/blog/infographic-the-rise-of-coding-bootcamps/
+
+19:08:34	Warning: 	Moved Permanently for www.techladder.io/blog/10-signs-that-youd-make-a-great-java-programmer/
+
+19:08:34	Warning: 	Redirected link is identical because of 'URL Hack' option: www.techladder.io/blog/10-signs-that-youd-make-a-great-java-programmer/ and https://www.techladder.io/blog/10-signs-that-youd-make-a-great-java-programmer/
+
+19:08:34	Warning: 	File has moved from www.techladder.io/blog/10-signs-that-youd-make-a-great-java-programmer/ to https://www.techladder.io/blog/10-signs-that-youd-make-a-great-java-programmer/
+
+19:09:09	Error: 	"Not Found" (404) at link https://www.techladder.io/wp-content/uploads/DSC_0725.jpg (from https://www.techladder.io/blog/learningfromexperts)
+
+19:09:09	Error: 	"Not Found" (404) at link https://www.techladder.io/wp-content/uploads/DSC_0692.jpg (from https://www.techladder.io/blog/learningfromexperts)
+
+19:09:13	Error: 	"Error when decompressing" (-1) at link https://www.techladder.io/blog/”http://techcrunch.com/2015/04/27/android-surpasses-ios-in-revenue-if-chinas-android-app-stores-are-combined/” (from https://www.techladder.io/blog/3-real-world-applications-of-java)
+
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 8 minutes 5 seconds : 987 links scanned, 849 files written (171388279 bytes overall) [151624800 bytes received at 312628 bytes/sec], 32281020 bytes transferred using HTTP compression in 641 files, ratio 20%, 14.9 requests per connection
+
+(123 errors, 42 warnings, 0 messages)
+

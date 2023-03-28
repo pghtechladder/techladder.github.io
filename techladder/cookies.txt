@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.hubspot.com	TRUE	/	FALSE	1999999999	__cf_bm	QqjNLKn..Ksfjv2kLwRa8FE6t2aHBfiL3_sBylqJ2f0-1678233687-0-AWQDpUt0cJK2kzdiUsxzzLA/uFNAvPDgMQqcS5kLMha+PNCs0wmlYv6FB+FBkuqlAu6t9g2jl2wPhD4URCLR9M4=
+no-cache.hubspot.com	TRUE	/	FALSE	1999999999	SameSite	None
+.www.techladder.io	TRUE	/	FALSE	1999999999	__cf_bm	xdvhc2nFgfrX_GbImHYYzbijyg06_DALZBHdIjPgm_c-1678234153-0-ATjRfrINHeJXdAd/ewGyTdBer2Y/i3ri4Am5nRKtnHk1VqRvmcAAzHRaYyKKin2XPVaZMcRzGLxyLtYLWCWhgEc=
+.www.techladder.io	TRUE	/	FALSE	1999999999	__cfruid	7f3b92d25b5f43a16e62c0710f48334109f80081-1678234153
+www.techladder.io	TRUE	/	FALSE	1999999999	SameSite	None
+

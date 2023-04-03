@@ -1,5 +1,5 @@
 /*!
-* lazyYT (lazy load YouTube videos)
+* lazyYT (lazy load techtube videos)
 * v1.0.1 - 2014-12-30
 * (CC) This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 * http://creativecommons.org/licenses/by-sa/4.0/
@@ -27,7 +27,7 @@
 }
 
 /*
- * Video Title (YouTube style)
+ * Video Title (techtube style)
  */
 
 .lazyYT-container .html5-info-bar {
@@ -88,7 +88,7 @@
 }
 
 /*
- * Play button (YouTube style)
+ * Play button (techtube style)
  */
 
 .ytp-large-play-button {

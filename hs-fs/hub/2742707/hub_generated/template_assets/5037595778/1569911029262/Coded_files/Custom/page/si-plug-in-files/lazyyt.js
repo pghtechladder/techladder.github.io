@@ -1,11 +1,11 @@
 /*!
-* lazyYT (lazy load YouTube videos)
+* lazyYT (lazy load techtube videos)
 * v1.0.1 - 2014-12-30
 * (CC) This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License.
 * http://creativecommons.org/licenses/by-sa/4.0/
 * Contributors: https://github.com/tylerpearson/lazyYT/graphs/contributors || https://github.com/daugilas/lazyYT/graphs/contributors
 * 
-* Usage: <div class="lazyYT" data-youtube-id="laknj093n" data-parameters="rel=0">loading...</div>
+* Usage: <div class="lazyYT" data-techtube-id="laknj093n" data-parameters="rel=0">loading...</div>
 *
 * This code has been modified from the original version, to remove the request for the video title
 */
@@ -17,13 +17,13 @@
         var width = $el.data('width'),
             height = $el.data('height'),
             ratio = ($el.data('ratio')) ? $el.data('ratio') : settings.default_ratio,
-            id = $el.data('youtube-id'),
+            id = $el.data('techtube-id'),
             padding_bottom,
             innerHtml = [],
             $thumb,
             thumb_img,
             loading_text = $el.text() ? $el.text() : settings.loading_text,
-            youtube_parameters = $el.data('parameters') || '';
+            techtube_parameters = $el.data('parameters') || '';
         
         ratio = ratio.split(":");
         
@@ -50,7 +50,7 @@
         
         innerHtml.push('<div class="ytp-thumbnail">');
         
-          // Play button from YouTube (exactly as it is in YouTube)
+          // Play button from techtube (exactly as it is in techtube)
           innerHtml.push('<div class="ytp-large-play-button"');
           if (width <= 640) innerHtml.push(' style="transform: scale(0.563888888888889);"');
           innerHtml.push('>');
@@ -63,7 +63,7 @@
         innerHtml.push('</div>'); // end of .ytp-thumbnail
         
         // Video title (info bar)
-        innerHtml.push('<a id="lazyYT-title-', id, '" class="html5-title-text" target="_blank" tabindex="3100" href="//www.youtube.com/watch?v=', id, '">');
+        innerHtml.push('<a id="lazyYT-title-', id, '" class="html5-title-text" target="_blank" tabindex="3100" href="//www.techtube.com/watch?v=', id, '">');
         innerHtml.push(loading_text);
         innerHtml.push('</a>');
 
@@ -87,13 +87,13 @@
         }
         
         $thumb = $el.find('.ytp-thumbnail').css({
-            'background-image': ['url(//img.youtube.com/vi/', id, '/', thumb_img, ')'].join('')
+            'background-image': ['url(//img.techtube.com/vi/', id, '/', thumb_img, ')'].join('')
         })
           .addClass('lazyYT-image-loaded')
           .on('click', function (e) {
             e.preventDefault();
             if (!$el.hasClass('lazyYT-video-loaded') && $thumb.hasClass('lazyYT-image-loaded')) {
-              $el.html('<iframe src="//www.youtube.com/embed/' + id + '?autoplay=1&' + youtube_parameters + '" frameborder="0" allowfullscreen></iframe>')
+              $el.html('<iframe src="//www.techtube.com/embed/' + id + '?autoplay=1&' + techtube_parameters + '" frameborder="0" allowfullscreen></iframe>')
                 .addClass('lazyYT-video-loaded');
             }
           });

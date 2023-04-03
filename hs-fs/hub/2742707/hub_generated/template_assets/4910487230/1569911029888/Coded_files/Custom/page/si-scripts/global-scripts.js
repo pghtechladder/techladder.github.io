@@ -245,7 +245,7 @@ $(document).ready(function() {
 		testForVisibility();
 	})
 
-	// Initialize Youtube Lazy Load plug-in if needed
+	// Initialize techtube Lazy Load plug-in if needed
 	if ($('.lazyYT').length > 0) {
 		$('.lazyYT').lazyYT();
 	}

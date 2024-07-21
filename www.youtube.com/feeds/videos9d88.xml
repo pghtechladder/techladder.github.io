@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCq0EGvLTyy-LLT1oUSO_0FQ"/>
+ <id>yt:channel:q0EGvLTyy-LLT1oUSO_0FQ</id>
+ <yt:channelId>q0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+ <title>Eddie Woo</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ"/>
+ <author>
+  <name>Eddie Woo</name>
+  <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+ </author>
+ <published>2012-03-29T03:55:47+00:00</published>
+ <entry>
+  <id>yt:video:Lkom2Q13SaQ</id>
+  <yt:videoId>Lkom2Q13SaQ</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Discrete Random Variables (1 of 3: Introduction)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Lkom2Q13SaQ"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-07-17T23:00:12+00:00</published>
+  <updated>2024-07-19T06:08:43+00:00</updated>
+  <media:group>
+   <media:title>Discrete Random Variables (1 of 3: Introduction)</media:title>
+   <media:content url="https://www.youtube.com/v/Lkom2Q13SaQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/Lkom2Q13SaQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="106" average="5.00" min="1" max="5"/>
+    <media:statistics views="3076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gTSTrCJ0LDg</id>
+  <yt:videoId>gTSTrCJ0LDg</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (6 of 6: Cosine)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gTSTrCJ0LDg"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-07-14T23:00:17+00:00</published>
+  <updated>2024-07-15T23:17:14+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (6 of 6: Cosine)</media:title>
+   <media:content url="https://www.youtube.com/v/gTSTrCJ0LDg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gTSTrCJ0LDg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="100" average="5.00" min="1" max="5"/>
+    <media:statistics views="5762"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:UTV7nXSuheI</id>
+  <yt:videoId>UTV7nXSuheI</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (5 of 6: Graphing inverse sine derivative)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=UTV7nXSuheI"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-07-10T23:00:30+00:00</published>
+  <updated>2024-07-19T05:29:14+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (5 of 6: Graphing inverse sine derivative)</media:title>
+   <media:content url="https://www.youtube.com/v/UTV7nXSuheI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/UTV7nXSuheI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="90" average="5.00" min="1" max="5"/>
+    <media:statistics views="4153"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FKLxundGihQ</id>
+  <yt:videoId>FKLxundGihQ</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (4 of 6: Proof for inverse sine)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FKLxundGihQ"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-07-07T23:00:05+00:00</published>
+  <updated>2024-07-17T13:17:53+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (4 of 6: Proof for inverse sine)</media:title>
+   <media:content url="https://www.youtube.com/v/FKLxundGihQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FKLxundGihQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="110" average="5.00" min="1" max="5"/>
+    <media:statistics views="4981"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0_a6-zbhJDs</id>
+  <yt:videoId>0_a6-zbhJDs</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (3 of 6: Examples + graphing the derivative)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0_a6-zbhJDs"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-07-03T23:00:00+00:00</published>
+  <updated>2024-07-14T12:14:08+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (3 of 6: Examples + graphing the derivative)</media:title>
+   <media:content url="https://www.youtube.com/v/0_a6-zbhJDs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0_a6-zbhJDs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="108" average="5.00" min="1" max="5"/>
+    <media:statistics views="6300"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:b6qNQJi4SuM</id>
+  <yt:videoId>b6qNQJi4SuM</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (2 of 6: Proof for inverse tan)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=b6qNQJi4SuM"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-30T23:00:28+00:00</published>
+  <updated>2024-07-19T05:36:49+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (2 of 6: Proof for inverse tan)</media:title>
+   <media:content url="https://www.youtube.com/v/b6qNQJi4SuM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/b6qNQJi4SuM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="118" average="5.00" min="1" max="5"/>
+    <media:statistics views="6718"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:u_FOF05IuoM</id>
+  <yt:videoId>u_FOF05IuoM</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Differentiating Inverse Trigonometric Functions (1 of 6: Laying foundations)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=u_FOF05IuoM"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-26T23:00:24+00:00</published>
+  <updated>2024-07-14T00:35:53+00:00</updated>
+  <media:group>
+   <media:title>Differentiating Inverse Trigonometric Functions (1 of 6: Laying foundations)</media:title>
+   <media:content url="https://www.youtube.com/v/u_FOF05IuoM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/u_FOF05IuoM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="215" average="5.00" min="1" max="5"/>
+    <media:statistics views="10248"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:rTPoXiQHI6M</id>
+  <yt:videoId>rTPoXiQHI6M</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Normal Approximation to Binomial Distribution (example question)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=rTPoXiQHI6M"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-23T23:00:20+00:00</published>
+  <updated>2024-07-13T19:09:50+00:00</updated>
+  <media:group>
+   <media:title>Normal Approximation to Binomial Distribution (example question)</media:title>
+   <media:content url="https://www.youtube.com/v/rTPoXiQHI6M?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/rTPoXiQHI6M/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="138" average="5.00" min="1" max="5"/>
+    <media:statistics views="5154"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nb-yAvL3wSQ</id>
+  <yt:videoId>nb-yAvL3wSQ</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Statistical Proportions (2 of 2: Basic example)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nb-yAvL3wSQ"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-19T23:00:24+00:00</published>
+  <updated>2024-07-19T14:21:10+00:00</updated>
+  <media:group>
+   <media:title>Statistical Proportions (2 of 2: Basic example)</media:title>
+   <media:content url="https://www.youtube.com/v/nb-yAvL3wSQ?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nb-yAvL3wSQ/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="88" average="5.00" min="1" max="5"/>
+    <media:statistics views="3574"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ueXB7XUVNUs</id>
+  <yt:videoId>ueXB7XUVNUs</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Statistical Proportions (1 of 2: What are they?)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ueXB7XUVNUs"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-16T23:00:24+00:00</published>
+  <updated>2024-07-14T18:26:45+00:00</updated>
+  <media:group>
+   <media:title>Statistical Proportions (1 of 2: What are they?)</media:title>
+   <media:content url="https://www.youtube.com/v/ueXB7XUVNUs?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/ueXB7XUVNUs/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="125" average="5.00" min="1" max="5"/>
+    <media:statistics views="5277"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Nhi3KciPGO8</id>
+  <yt:videoId>Nhi3KciPGO8</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Independent Events (2 of 2: Overlapping situations)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Nhi3KciPGO8"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-12T23:00:20+00:00</published>
+  <updated>2024-07-19T01:02:12+00:00</updated>
+  <media:group>
+   <media:title>Independent Events (2 of 2: Overlapping situations)</media:title>
+   <media:content url="https://www.youtube.com/v/Nhi3KciPGO8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Nhi3KciPGO8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="92" average="5.00" min="1" max="5"/>
+    <media:statistics views="3621"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uTdMans65jc</id>
+  <yt:videoId>uTdMans65jc</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Independent Events (1 of 2: Thinking symbolically)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uTdMans65jc"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-09T23:00:24+00:00</published>
+  <updated>2024-07-14T02:22:23+00:00</updated>
+  <media:group>
+   <media:title>Independent Events (1 of 2: Thinking symbolically)</media:title>
+   <media:content url="https://www.youtube.com/v/uTdMans65jc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uTdMans65jc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="150" average="5.00" min="1" max="5"/>
+    <media:statistics views="4733"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:yVB5-Uxs5gg</id>
+  <yt:videoId>yVB5-Uxs5gg</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Conditional Probability (4 of 4: Determining reduced sample space)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=yVB5-Uxs5gg"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-05T23:00:35+00:00</published>
+  <updated>2024-07-15T10:56:43+00:00</updated>
+  <media:group>
+   <media:title>Conditional Probability (4 of 4: Determining reduced sample space)</media:title>
+   <media:content url="https://www.youtube.com/v/yVB5-Uxs5gg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/yVB5-Uxs5gg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="123" average="5.00" min="1" max="5"/>
+    <media:statistics views="5078"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:SKx4KxtcBz0</id>
+  <yt:videoId>SKx4KxtcBz0</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Conditional Probability (3 of 4: Defective light bulbs)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=SKx4KxtcBz0"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-06-02T23:00:12+00:00</published>
+  <updated>2024-07-18T08:25:25+00:00</updated>
+  <media:group>
+   <media:title>Conditional Probability (3 of 4: Defective light bulbs)</media:title>
+   <media:content url="https://www.youtube.com/v/SKx4KxtcBz0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/SKx4KxtcBz0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="154" average="5.00" min="1" max="5"/>
+    <media:statistics views="5229"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:cB9NmCJgD8o</id>
+  <yt:videoId>cB9NmCJgD8o</yt:videoId>
+  <yt:channelId>UCq0EGvLTyy-LLT1oUSO_0FQ</yt:channelId>
+  <title>Conditional Probability (2 of 4: Introductory example)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=cB9NmCJgD8o"/>
+  <author>
+   <name>Eddie Woo</name>
+   <uri>https://www.youtube.com/channel/UCq0EGvLTyy-LLT1oUSO_0FQ</uri>
+  </author>
+  <published>2024-05-29T23:00:18+00:00</published>
+  <updated>2024-07-19T15:07:17+00:00</updated>
+  <media:group>
+   <media:title>Conditional Probability (2 of 4: Introductory example)</media:title>
+   <media:content url="https://www.youtube.com/v/cB9NmCJgD8o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/cB9NmCJgD8o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>More resources available at www.misterwootube.com</media:description>
+   <media:community>
+    <media:starRating count="220" average="5.00" min="1" max="5"/>
+    <media:statistics views="7871"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCpJf6LGZ0a4n9Lj4aVt9spg"/>
+ <id>yt:channel:pJf6LGZ0a4n9Lj4aVt9spg</id>
+ <yt:channelId>pJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+ <title>WordPress</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg"/>
+ <author>
+  <name>WordPress</name>
+  <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+ </author>
+ <published>2014-06-06T19:43:43+00:00</published>
+ <entry>
+  <id>yt:video:5Q9vRmDgKJ4</id>
+  <yt:videoId>5Q9vRmDgKJ4</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Including assets</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=5Q9vRmDgKJ4"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-19T13:11:20+00:00</published>
+  <updated>2024-07-19T13:11:20+00:00</updated>
+  <media:group>
+   <media:title>Including assets</media:title>
+   <media:content url="https://www.youtube.com/v/5Q9vRmDgKJ4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/5Q9vRmDgKJ4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>With this lesson, you will: describe how to enqueue styles and scripts, include CSS in your theme either using stylesheets or inline styles, include JavaScript in your theme by either using an external file or inline JavaScript, include images in your theme, and include fonts in your theme.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/including-assets/</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="61"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:S6OVsyP4FYA</id>
+  <yt:videoId>S6OVsyP4FYA</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Custom functionality</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=S6OVsyP4FYA"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-19T13:09:27+00:00</published>
+  <updated>2024-07-19T13:09:28+00:00</updated>
+  <media:group>
+   <media:title>Custom functionality</media:title>
+   <media:content url="https://www.youtube.com/v/S6OVsyP4FYA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/S6OVsyP4FYA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>This lesson dives into the theme’s functions file (functions.php) and how you can use it to add your own functionality to a theme. With this lesson, you will: describe the purpose of a WordPress theme's functions.php file, decide when to use a plugin instead of the functions.php file when developing a theme, and list some common uses of the functions.php file for extending the functionality of WordPress.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/custom-functionality/</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="158"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:uU1IFfpqy8s</id>
+  <yt:videoId>uU1IFfpqy8s</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Updating your theme</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=uU1IFfpqy8s"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T14:24:41+00:00</published>
+  <updated>2024-07-20T08:57:08+00:00</updated>
+  <media:group>
+   <media:title>Updating your theme</media:title>
+   <media:content url="https://www.youtube.com/v/uU1IFfpqy8s?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/uU1IFfpqy8s/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Once your theme is live on the WordPress.org theme directory, you may need to update it from time to time. This could be to fix bugs, add new features, or generally improve it.
+
+There are two ways to update your theme on WordPress.org, uploading a new zip file, or using Subversion (SVN).
+
+Let's look at both methods.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/updating-your-theme/</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="114"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vSNFU1usCOw</id>
+  <yt:videoId>vSNFU1usCOw</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Submitting your theme to WordPress.org</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vSNFU1usCOw"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T14:13:56+00:00</published>
+  <updated>2024-07-18T14:13:57+00:00</updated>
+  <media:group>
+   <media:title>Submitting your theme to WordPress.org</media:title>
+   <media:content url="https://www.youtube.com/v/vSNFU1usCOw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vSNFU1usCOw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>When you've made sure your theme includes all the required files, passes the theme review guidelines, and you've thoroughly tested your theme, you're ready to submit your theme to the WordPress.org theme directory.
+
+Let's dive into what this process looks like.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/submitting-your-theme-to-wordpress-org/</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="9"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:U-Aba8l7nwU</id>
+  <yt:videoId>U-Aba8l7nwU</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Preparing your theme for submission</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=U-Aba8l7nwU"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T14:12:25+00:00</published>
+  <updated>2024-07-18T14:12:26+00:00</updated>
+  <media:group>
+   <media:title>Preparing your theme for submission</media:title>
+   <media:content url="https://www.youtube.com/v/U-Aba8l7nwU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/U-Aba8l7nwU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Once you have finished developing your theme, you need to prepare it for submission to the WordPress.org theme repository.
+
+In this lesson, you'll learn how to prepare your theme for submission, including how to test your theme, check and follow the theme review guidelines, and prepare documentation for your theme.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/preparing-your-theme-for-submission/</media:description>
+   <media:community>
+    <media:starRating count="1" average="5.00" min="1" max="5"/>
+    <media:statistics views="15"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vhWis5HiUdY</id>
+  <yt:videoId>vhWis5HiUdY</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Required theme files</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vhWis5HiUdY"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T14:09:11+00:00</published>
+  <updated>2024-07-18T14:09:11+00:00</updated>
+  <media:group>
+   <media:title>Required theme files</media:title>
+   <media:content url="https://www.youtube.com/v/vhWis5HiUdY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vhWis5HiUdY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>When you submit your theme to the WordPress.org theme directory, there are a set of required theme files that you need to include in your theme.
+
+Let's look at what these files are, and why they are important.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/17/required-theme-files/</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="65"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:gx_XyBoJV-A</id>
+  <yt:videoId>gx_XyBoJV-A</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>The WordPress org theme directory</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=gx_XyBoJV-A"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T12:43:58+00:00</published>
+  <updated>2024-07-20T01:25:58+00:00</updated>
+  <media:group>
+   <media:title>The WordPress org theme directory</media:title>
+   <media:content url="https://www.youtube.com/v/gx_XyBoJV-A?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/gx_XyBoJV-A/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Once you’ve developed your theme, you’re probably going to look at ways to publish it, so that WordPress users can install and use it.
+
+One of the most popular ways to do this is to submit your theme to the WordPress.org theme directory.
+
+Let’s dive into what the WordPress.org theme directory is, why you might consider publishing your theme there, and learn about the process of submitting your theme to the theme directory.
+
+View this lesson and others in this course at Learn WordPress:
+https://wordpress.tv/2024/07/17/the-wordpress-org-theme-directory/</media:description>
+   <media:community>
+    <media:starRating count="14" average="5.00" min="1" max="5"/>
+    <media:statistics views="318"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Vopi-a9NptY</id>
+  <yt:videoId>Vopi-a9NptY</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Exploring WordPress 6.6</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Vopi-a9NptY"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-18T10:04:22+00:00</published>
+  <updated>2024-07-19T20:25:24+00:00</updated>
+  <media:group>
+   <media:title>Exploring WordPress 6.6</media:title>
+   <media:content url="https://www.youtube.com/v/Vopi-a9NptY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Vopi-a9NptY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Check out some of the new features that have landed with WordPress 6.6.
+---
+View this video and others at learn.wordpress.org.
+
+00:00 Data view improvements
+1:08 Publish flows 
+1:41 Grid layout support
+3:35 Negative margins
+4:20 Synced pattern overrides 
+6:57 Shuffle patterns
+7:35 Site background images
+8:06 Edit or create shadows
+8:42 Plugin auto-updates
+
+Presenter: Wes Theron</media:description>
+   <media:community>
+    <media:starRating count="37" average="5.00" min="1" max="5"/>
+    <media:statistics views="1059"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:FfEpt8RaTB4</id>
+  <yt:videoId>FfEpt8RaTB4</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Adding custom user roles using a WordPress plugin</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=FfEpt8RaTB4"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-15T01:00:09+00:00</published>
+  <updated>2024-07-17T23:23:17+00:00</updated>
+  <media:group>
+   <media:title>Adding custom user roles using a WordPress plugin</media:title>
+   <media:content url="https://www.youtube.com/v/FfEpt8RaTB4?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/FfEpt8RaTB4/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learn how to create custom user roles using a WordPress plugin to define specific responsibilities and permissions, segment users for tailored experiences, manage content moderation effectively, and establish custom workflows.
+---
+View this video and others at www.learn.wordpress.org.
+
+00:00 Introduction
+00:22 Custom roles
+1:08 Using a plugin
+2:08 Granting permissions
+3:26 Assigning a role
+
+Presenter: Wes Theron</media:description>
+   <media:community>
+    <media:starRating count="7" average="5.00" min="1" max="5"/>
+    <media:statistics views="348"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:BqKb_hWUM1w</id>
+  <yt:videoId>BqKb_hWUM1w</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Template parts</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=BqKb_hWUM1w"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-11T08:58:50+00:00</published>
+  <updated>2024-07-16T11:03:04+00:00</updated>
+  <media:group>
+   <media:title>Template parts</media:title>
+   <media:content url="https://www.youtube.com/v/BqKb_hWUM1w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/BqKb_hWUM1w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We will explore how to create and add template parts to your theme. With this lesson, you will: describe template parts and how they work, define template part areas, and add template parts to your theme.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/08/template-parts/</media:description>
+   <media:community>
+    <media:starRating count="8" average="5.00" min="1" max="5"/>
+    <media:statistics views="360"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:sDWvuYzeW4E</id>
+  <yt:videoId>sDWvuYzeW4E</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Template hierarchy</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=sDWvuYzeW4E"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-11T08:56:48+00:00</published>
+  <updated>2024-07-14T13:00:40+00:00</updated>
+  <media:group>
+   <media:title>Template hierarchy</media:title>
+   <media:content url="https://www.youtube.com/v/sDWvuYzeW4E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/sDWvuYzeW4E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We will take a deep dive into the details of how WordPress loads templates in a browser. With this lesson, you will: explain how WordPress uses the query string, briefly explain the template hierarchy diagram, and describe the template hierarchy for a given page being queried.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/08/template-hierarchy/</media:description>
+   <media:community>
+    <media:starRating count="3" average="5.00" min="1" max="5"/>
+    <media:statistics views="151"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:nQkvv-NX6wY</id>
+  <yt:videoId>nQkvv-NX6wY</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>An overview of Templates</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=nQkvv-NX6wY"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-11T08:55:10+00:00</published>
+  <updated>2024-07-13T14:21:18+00:00</updated>
+  <media:group>
+   <media:title>An overview of Templates</media:title>
+   <media:content url="https://www.youtube.com/v/nQkvv-NX6wY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/nQkvv-NX6wY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>We will cover the purpose, structure and loading of templates. With this lesson you will: describe the purpose and structure of a template, list the sequence templates are loaded by WordPress, and with theme starter files in place, create a template from scratch.
+---
+View this video and others on WordPress.TV:  https://wordpress.tv/2024/07/08/templates-overview/</media:description>
+   <media:community>
+    <media:starRating count="6" average="5.00" min="1" max="5"/>
+    <media:statistics views="165"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:AfinnT3XhxY</id>
+  <yt:videoId>AfinnT3XhxY</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>WordPress.org plugin repository, a year in review</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=AfinnT3XhxY"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-10T01:13:40+00:00</published>
+  <updated>2024-07-17T09:31:36+00:00</updated>
+  <media:group>
+   <media:title>WordPress.org plugin repository, a year in review</media:title>
+   <media:content url="https://www.youtube.com/v/AfinnT3XhxY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/AfinnT3XhxY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Get to know what features the WordPress.org repository provides to the community, how the review team is working to make plugin reviews faster and more accurate – with the aim of improving plugin compliance, reliability and security, whilst reducing plugins review backlog.
+
+If you ever planned to work on your own plugin or already have one ready for publishing, you’ll get some best practice tips on how to improve it and get it approved quickly.</media:description>
+   <media:community>
+    <media:starRating count="4" average="5.00" min="1" max="5"/>
+    <media:statistics views="131"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L8Vx2Oj8_5Y</id>
+  <yt:videoId>L8Vx2Oj8_5Y</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Replacing Regular Expressions with WordPress’ new tag manipulation APIs</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=L8Vx2Oj8_5Y"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-10T00:16:45+00:00</published>
+  <updated>2024-07-17T13:09:51+00:00</updated>
+  <media:group>
+   <media:title>Replacing Regular Expressions with WordPress’ new tag manipulation APIs</media:title>
+   <media:content url="https://www.youtube.com/v/L8Vx2Oj8_5Y?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L8Vx2Oj8_5Y/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Do you hate writing Regular Expressions to parse HTML?
+
+Do you understand why this is generally a bad idea?!
+
+There’s new API’s available in WordPress to help you achieve your tasks without writing any REGEX.
+
+This lightning talk will introduce you to these API’s and provide real world examples of how you might use these to simplify and stabilise your codebases.</media:description>
+   <media:community>
+    <media:starRating count="2" average="5.00" min="1" max="5"/>
+    <media:statistics views="65"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jSRX9fElRtA</id>
+  <yt:videoId>jSRX9fElRtA</yt:videoId>
+  <yt:channelId>UCpJf6LGZ0a4n9Lj4aVt9spg</yt:channelId>
+  <title>Legacy to Block: an indepth look at migrating a legacy website to Gutenberg</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jSRX9fElRtA"/>
+  <author>
+   <name>WordPress</name>
+   <uri>https://www.youtube.com/channel/UCpJf6LGZ0a4n9Lj4aVt9spg</uri>
+  </author>
+  <published>2024-07-10T00:00:50+00:00</published>
+  <updated>2024-07-12T22:03:56+00:00</updated>
+  <media:group>
+   <media:title>Legacy to Block: an indepth look at migrating a legacy website to Gutenberg</media:title>
+   <media:content url="https://www.youtube.com/v/jSRX9fElRtA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jSRX9fElRtA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us on a reflective journey as we share the nuances of a successful migration, from a legacy Content Management System (CMS) to WordPress, enhanced by Gutenberg and custom blocks.
+
+This narrative unveils the different approaches we considered, shedding light on the diverse strategies that seamlessly transitioned us from the old to the new.
+
+We will share the issues we faced, the decisions we had to embrace, and the challenges of such a complex project, in a way everyone can benefit from.</media:description>
+   <media:community>
+    <media:starRating count="5" average="5.00" min="1" max="5"/>
+    <media:statistics views="96"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

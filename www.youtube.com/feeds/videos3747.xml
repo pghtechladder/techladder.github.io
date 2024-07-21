@@ -1,0 +1,446 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?channel_id=UCKFojzto0n4Ab3CRQRZ2zYA"/>
+ <id>yt:channel:KFojzto0n4Ab3CRQRZ2zYA</id>
+ <yt:channelId>KFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+ <title>Компьютерные науки</title>
+ <link rel="alternate" href="https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA"/>
+ <author>
+  <name>Компьютерные науки</name>
+  <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+ </author>
+ <published>2014-10-27T15:20:39+00:00</published>
+ <entry>
+  <id>yt:video:JtvsPqh-T8w</id>
+  <yt:videoId>JtvsPqh-T8w</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>03. Дикуссия «Ближайшее будущее диффузионных моделей»</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JtvsPqh-T8w"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-08-21T13:52:38+00:00</published>
+  <updated>2024-07-17T05:30:44+00:00</updated>
+  <media:group>
+   <media:title>03. Дикуссия «Ближайшее будущее диффузионных моделей»</media:title>
+   <media:content url="https://www.youtube.com/v/JtvsPqh-T8w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JtvsPqh-T8w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Участники:
+
+- Петр Ермаков, ML Brand Director, Яндекс
+- Иван Барабанов, Разработчик, ВКонтакте, deep vk
+- Валентин Хрульков, ведущий исследователь, Yandex Research
+
+Денис Димитров, Исполнительный директор по исследованию данных Sber AI, научный консультант AIRI
+
+Вместе со специалистами в области диффузионных картиночных моделей порассуждаем, куда развивается область. Поговорим про текущие положение дел и актуальные технические барьеры области.</media:description>
+   <media:community>
+    <media:starRating count="25" average="5.00" min="1" max="5"/>
+    <media:statistics views="1121"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:4eftFlKnq0I</id>
+  <yt:videoId>4eftFlKnq0I</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>02. Практические аспекты обучения масштабных диффузионных моделей - Валентин Хрульков</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=4eftFlKnq0I"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-08-21T13:51:47+00:00</published>
+  <updated>2024-07-15T07:27:15+00:00</updated>
+  <media:group>
+   <media:title>02. Практические аспекты обучения масштабных диффузионных моделей - Валентин Хрульков</media:title>
+   <media:content url="https://www.youtube.com/v/4eftFlKnq0I?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/4eftFlKnq0I/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Спикер: Валентин Хрульков, ведущий исследователь, Yandex Research
+
+Рассмотрим все этапы обучения foundational диффузионных моделей, начиная от подготовки датасета до регулярных замеров качества в процессе обучения. Обсудим scaling law эксперименты и их предварительные результаты. Так же обсудим различные аспекты применения этих моделей на практике: генерации рекламных баннеров, персонализация, сервис-социальная сеть Шедеврум.</media:description>
+   <media:community>
+    <media:starRating count="30" average="5.00" min="1" max="5"/>
+    <media:statistics views="967"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:vniAmSfw8Uc</id>
+  <yt:videoId>vniAmSfw8Uc</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>01. Kandinsky 2 X - Андрей Кузнецов</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=vniAmSfw8Uc"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-08-21T13:51:21+00:00</published>
+  <updated>2024-07-14T12:39:10+00:00</updated>
+  <media:group>
+   <media:title>01. Kandinsky 2 X - Андрей Кузнецов</media:title>
+   <media:content url="https://www.youtube.com/v/vniAmSfw8Uc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/vniAmSfw8Uc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Спикер: Андрей Кузнецов, Исполнительный директор по исследованию данных, Sber AI
+
+Рассмотрим теорию и доступную информацию о диффузионном процессе. Подробно покажу, чем отличается архитектура Kandinsky 2.1 от 2.2. Обсудим метрики для оценки качества генераций, поговорим про ключевые результаты релизов. Вместе посмотрим, в каких сценариях для бизнеса и практических приложениях можно применять нашу модель.</media:description>
+   <media:community>
+    <media:starRating count="21" average="5.00" min="1" max="5"/>
+    <media:statistics views="986"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:zhSRhtD--1E</id>
+  <yt:videoId>zhSRhtD--1E</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>ML Party 03.08.2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=zhSRhtD--1E"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-08-04T06:54:24+00:00</published>
+  <updated>2024-07-14T13:38:18+00:00</updated>
+  <media:group>
+   <media:title>ML Party 03.08.2023</media:title>
+   <media:content url="https://www.youtube.com/v/zhSRhtD--1E?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/zhSRhtD--1E/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Добро пожаловать на вечерний митап для ML-инженеров от Яндекса. В этот раз поговорим про модные нынче «генеративки», а именно про диффузионные картиночные модели!
+
+программа:
+00:00:00 – таймер обратного отсчёта перед эфиром
+00:02:12 – открытие конференции
+00:04:52 – Kandinsky 2.X
+Андрей Кузнецов, исполнительный директор по исследованию данных, Sber AI.
+00:46:55 – перерыв
+01:03:40 – Практические аспекты обучения масштабных диффузионных моделей 
+Валентин Хрульков, ведущий исследователь, Yandex Research. 
+01:49:34 – Дискуссия «Ближайшее будущее диффузионных моделей»
+
+Присоединяйтесь к нашем сообществу в телеграм, чтобы быть в курсе всех событий и мероприятий Яндекса https://t.me/yadatadojo. Вопросы для спикеров можно оставлять в том же чате!</media:description>
+   <media:community>
+    <media:starRating count="85" average="5.00" min="1" max="5"/>
+    <media:statistics views="2908"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:O_spKHhAnZU</id>
+  <yt:videoId>O_spKHhAnZU</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Bias-variance tradeoff в анализе данных и реальной жизни. Максим Николаев, Школа анализа данных</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=O_spKHhAnZU"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-05-02T08:19:39+00:00</published>
+  <updated>2024-07-17T01:37:47+00:00</updated>
+  <media:group>
+   <media:title>Bias-variance tradeoff в анализе данных и реальной жизни. Максим Николаев, Школа анализа данных</media:title>
+   <media:content url="https://www.youtube.com/v/O_spKHhAnZU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/O_spKHhAnZU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Лекция «Bias-variance tradeoff. Почему мы любим спрашивать совета у профессионалов» на Дне открытых дверей Школы анализа данных в Санкт-Петербурге, 22 апреля 2023 года.
+
+Лектор: Максим Николаев, координатор партнерского направления Яндекса «Науки о данных» на факультете МКН СПбГУ, преподаватель статистики и ML.
+
+С переобучением и недообучением модели сталкивается всякий, кто интересуется анализом данных и машинным обучением. В этой лекции мы разберемся, как описать эти явления в терминах смещения и дисперсии предсказания, узнаем, как связаны эти понятия со способностью модели выучивать обучающую выборку, а также увидим, как улучшить качество предсказания, умело ограничивая выразительность модели. Кроме этого мы обсудим, почему мы сами являемся частью модели, которую обучаем, и как контролировать наше переобучение.
+
+Слайды и код для генерации графиков доступен по ссылке: https://disk.yandex.ru/d/b2rOMFWfsqqBLA
+
+Поступайте в ШАД: https://clck.ru/34Es6e</media:description>
+   <media:community>
+    <media:starRating count="71" average="5.00" min="1" max="5"/>
+    <media:statistics views="2260"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:YophMEBBJx8</id>
+  <yt:videoId>YophMEBBJx8</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Data Dojo — ML тренировка 22 апреля 2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=YophMEBBJx8"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-04-23T00:34:52+00:00</published>
+  <updated>2024-07-18T02:00:07+00:00</updated>
+  <media:group>
+   <media:title>Data Dojo — ML тренировка 22 апреля 2023</media:title>
+   <media:content url="https://www.youtube.com/v/YophMEBBJx8?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/YophMEBBJx8/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Data Dojo — мероприятие, на котором встречаются специалисты из сферы анализа данных и участвуют в тренировках по машинному обучению.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.
+
+Программа: https://events.yandex.ru/events/datadojo-22-04-2023
+
+00:00:00 - заставка перед началом трансляции
+00:02:23 - Обзор активных ML-соревнований (май-июль)
+00:20:38 - Разбор решения Kaggle: Learning Equality - Curriculum Recommendations
+01:46:44 - Разбор топ-2 решения на всероссийском чемпионате от ЦП
+02:12:58 -  Разбор решения Kaggle: IceCube - Neutrinos in Deep Ice</media:description>
+   <media:community>
+    <media:starRating count="131" average="5.00" min="1" max="5"/>
+    <media:statistics views="3943"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:ZwYQXmHdfAY</id>
+  <yt:videoId>ZwYQXmHdfAY</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>ML Party Yerevan — 2 марта 2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=ZwYQXmHdfAY"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-03-02T17:26:10+00:00</published>
+  <updated>2024-07-18T14:53:28+00:00</updated>
+  <media:group>
+   <media:title>ML Party Yerevan — 2 марта 2023</media:title>
+   <media:content url="https://www.youtube.com/v/ZwYQXmHdfAY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/ZwYQXmHdfAY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>0:00 начало
+11:48 Как устроены Быстрые ответы в Яндекс Поиске - Антон Иванов
+1:16:53 Построение модели эмбеддинга изображений для поиска одежды с заданными атрибутами - Александр Шишеня
+2:19:17 DSSM для рекомендации незнакомых исполнителей в Яндекс Музыке - Александр Сафронов
+
+ML Party — регулярные встречи о применении машинного обучения в IT.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.</media:description>
+   <media:community>
+    <media:starRating count="85" average="5.00" min="1" max="5"/>
+    <media:statistics views="3114"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:7AMv8XZ_DLk</id>
+  <yt:videoId>7AMv8XZ_DLk</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Прямая трансляция пользователя Компьютерные науки</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=7AMv8XZ_DLk"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-03-02T17:14:24+00:00</published>
+  <updated>2024-07-16T11:01:15+00:00</updated>
+  <media:group>
+   <media:title>Прямая трансляция пользователя Компьютерные науки</media:title>
+   <media:content url="https://www.youtube.com/v/7AMv8XZ_DLk?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/7AMv8XZ_DLk/hqdefault.jpg" width="480" height="360"/>
+   <media:description></media:description>
+   <media:community>
+    <media:starRating count="0" average="0.00" min="1" max="5"/>
+    <media:statistics views="0"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KhoMG7proGA</id>
+  <yt:videoId>KhoMG7proGA</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Data Dojo — ML тренировка 16 февраля 2023</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KhoMG7proGA"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2023-02-16T18:15:00+00:00</published>
+  <updated>2024-07-18T10:39:05+00:00</updated>
+  <media:group>
+   <media:title>Data Dojo — ML тренировка 16 февраля 2023</media:title>
+   <media:content url="https://www.youtube.com/v/KhoMG7proGA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KhoMG7proGA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Data Dojo — тренировки по машинному обучению и место встречи специалистов в сфере анализа данных.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.
+
+0:00:00 — Начало трансляции
+0:13:52 — Обзорный доклад про активные ML-соревнования 2023 / Петр Ермаков
+
+0:39:10 — Разбор олимпиад по искусственному интеллекту от Сбера для школьников и внедрение их решений в экосистему банка / Максим Кузнецов и Владимир Воробьёв
+
+1:28:57 — Диагностирование перелома шейных позвонков на КТ снимках. Разбор решения с Kaggle RSNA 2022 / 
+Селим Сефербеков</media:description>
+   <media:community>
+    <media:starRating count="94" average="5.00" min="1" max="5"/>
+    <media:statistics views="3369"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:tg8SSoKFqmA</id>
+  <yt:videoId>tg8SSoKFqmA</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Data Dojo — новогодняя ML тренировка 24 декабря 2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=tg8SSoKFqmA"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-12-24T12:28:57+00:00</published>
+  <updated>2024-07-15T06:49:50+00:00</updated>
+  <media:group>
+   <media:title>Data Dojo — новогодняя ML тренировка 24 декабря 2022</media:title>
+   <media:content url="https://www.youtube.com/v/tg8SSoKFqmA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/tg8SSoKFqmA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Data Dojo — тренировки по машинному обучению и место встречи специалистов в сфере анализа данных.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.
+
+0:00:00 — Начало трансляции
+0:00:55 — ML-соревнования 2022. Подведение итогов года / Петр Ермаков
+0:12:17 — Предсказание исполнителя трека по набору акустических признаков. Разбор решения с Yandex Cup 2022 / Владимир Фоменко
+0:37:52 — Что было, что будет, чем сердце успокоится: об анализе новостной ленты из прошлого, настоящего и будущего / Елизавета Пушкарева и Георгий Сурков
+2:02:12 — Дорога к Kaggle Competitions Master в 17 лет / Вадим Тимакин
+2:31:10 — Применение AutoML в соревнованиях по машинному обучению / 
+Дмитрий Симаков</media:description>
+   <media:community>
+    <media:starRating count="137" average="5.00" min="1" max="5"/>
+    <media:statistics views="3391"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:JyD0RuIA1oM</id>
+  <yt:videoId>JyD0RuIA1oM</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Data Dojo — ML тренировка 17 ноября 2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=JyD0RuIA1oM"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-11-17T18:56:35+00:00</published>
+  <updated>2024-07-17T22:56:08+00:00</updated>
+  <media:group>
+   <media:title>Data Dojo — ML тренировка 17 ноября 2022</media:title>
+   <media:content url="https://www.youtube.com/v/JyD0RuIA1oM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/JyD0RuIA1oM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Data Dojo — тренировки по машинному обучению и место встречи специалистов в сфере анализа данных.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.</media:description>
+   <media:community>
+    <media:starRating count="91" average="5.00" min="1" max="5"/>
+    <media:statistics views="3179"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:RKYySRSfjeI</id>
+  <yt:videoId>RKYySRSfjeI</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Data Dojo — ML тренировка 22 сентября 2022</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=RKYySRSfjeI"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-09-22T17:57:59+00:00</published>
+  <updated>2024-07-18T09:48:12+00:00</updated>
+  <media:group>
+   <media:title>Data Dojo — ML тренировка 22 сентября 2022</media:title>
+   <media:content url="https://www.youtube.com/v/RKYySRSfjeI?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/RKYySRSfjeI/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Data Dojo — тренировки по машинному обучению и место встречи специалистов в сфере анализа данных.
+
+Задавайте вопросы спикерам в телеграм-чате (https://t.me/+OsKnLNG-7DE1ZTFi) с хештегом #вопрос, чтобы ведущий зачитал их в прямом эфире.
+
+Программа:
+
+0:05 — Открытие / Петр Ермаков (Яндекс)
+4:38 — Бенчмарк приемлемости предложений на русском языке (RuCoLA) + секретный релиз / Максим Рябинин (Яндекс) / Презентация: https://clck.ru/32G6nT
+39:50 — Верификация моделей автомобилей (Machines Can See 2022) / Дмитрий Гаус (VisionLabs) и Артём Стрекалов (АО Уфанет) / Презентация: https://clck.ru/32G6oS</media:description>
+   <media:community>
+    <media:starRating count="114" average="5.00" min="1" max="5"/>
+    <media:statistics views="3928"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:jjLSzZx8zdw</id>
+  <yt:videoId>jjLSzZx8zdw</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Задача о кратчайших путях. Алгоритмы Беллмана-Форда, Флойда, Дийкстры и Джонсона</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=jjLSzZx8zdw"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-04-27T09:37:32+00:00</published>
+  <updated>2024-07-13T20:40:07+00:00</updated>
+  <media:group>
+   <media:title>Задача о кратчайших путях. Алгоритмы Беллмана-Форда, Флойда, Дийкстры и Джонсона</media:title>
+   <media:content url="https://www.youtube.com/v/jjLSzZx8zdw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/jjLSzZx8zdw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Кратчайшие пути в графах. Оценки расстояний и их релаксация. Алгоритмы Беллмана-Форда, Флойда и Дийкстры. Потенциалы. Критерий консервативности длин в терминах наличия допустимых потенциалов. Нахождение допустимых потенциалов с помощью алгоритма Беллмана-Форда. Алгоритм Джонсона.
+
+Подробнее о поступлении в Школу анализа данных от Академии Яндекса: https://clck.ru/geqRt</media:description>
+   <media:community>
+    <media:starRating count="41" average="5.00" min="1" max="5"/>
+    <media:statistics views="2117"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n99KgRCWE7w</id>
+  <yt:videoId>n99KgRCWE7w</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Задачи RMQ и LCA. Часть 2</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n99KgRCWE7w"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-04-27T09:37:32+00:00</published>
+  <updated>2024-07-13T05:49:01+00:00</updated>
+  <media:group>
+   <media:title>Задачи RMQ и LCA. Часть 2</media:title>
+   <media:content url="https://www.youtube.com/v/n99KgRCWE7w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n99KgRCWE7w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Дерево отрезков. Задача RSQ (range sum query). Задачи LCA (least common ancestor) и RMQ (range minimum query). Решение RMQ с помощью sparse table. Сведение LCA к RMQ (алгоритм Фарах-Колтона-Бендера). Сведение RMQ к LCA. Задача LA (level ancestors).
+
+Подробнее о поступлении в Школу анализа данных от Академии Яндекса: https://clck.ru/geqRt</media:description>
+   <media:community>
+    <media:starRating count="24" average="5.00" min="1" max="5"/>
+    <media:statistics views="1754"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:1OZCFPmMsQ0</id>
+  <yt:videoId>1OZCFPmMsQ0</yt:videoId>
+  <yt:channelId>UCKFojzto0n4Ab3CRQRZ2zYA</yt:channelId>
+  <title>Быстрая сортировка и сортировка слиянием 2. Бинарный поиск. Длиннейшая возрастающая подпоследователь</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=1OZCFPmMsQ0"/>
+  <author>
+   <name>Компьютерные науки</name>
+   <uri>https://www.youtube.com/channel/UCKFojzto0n4Ab3CRQRZ2zYA</uri>
+  </author>
+  <published>2022-04-27T09:37:31+00:00</published>
+  <updated>2024-07-16T10:21:54+00:00</updated>
+  <media:group>
+   <media:title>Быстрая сортировка и сортировка слиянием 2. Бинарный поиск. Длиннейшая возрастающая подпоследователь</media:title>
+   <media:content url="https://www.youtube.com/v/1OZCFPmMsQ0?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/1OZCFPmMsQ0/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Быстрая сортировка (Quick-Sort). Способы выбора разделяющего элемента. Элиминация хвостовой рекурсии. Порядковые статистики. Рандомизированный алгоритм Quick-Select. Детермининированный алгоритм поиска (метод &quot;медианы медиан&quot;).
+Бинарный поиск. Galloping.
+Линейное по времени слияние упорядоченных последовательностей. Оптимальное по числу сравнений слияние упорядоченных последовательностей.
+Задача о длиннейшей возврастающей подпоследовательности. Динамическое программирование. O(n log n)-алгоритм.
+
+Подробнее о поступлении в Школу анализа данных от Академии Яндекса: https://clck.ru/geqRt</media:description>
+   <media:community>
+    <media:starRating count="23" average="5.00" min="1" max="5"/>
+    <media:statistics views="1590"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>

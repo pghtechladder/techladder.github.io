@@ -1,0 +1,5 @@
+Mirror in progress since Sat, 20 Jul 2024 14:42:21 .. please wait!
+winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://techladder.io/ -O1 ""C:\Users\Neha\Box\My Web Sites\PTL_Final\PTL"" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar 
+To pause the engine: create an empty file named 'hts-stop.lock'
+PID=43352
+START=1721500941
